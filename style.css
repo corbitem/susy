@@ -1,0 +1,50 @@
+html {
+  background-image: url('https://cdn.glitch.global/47ba4075-4e6c-468e-b0d9-a02e618fc535/amongdrip.jpg?v=1652579228727');
+  font-family: sans-serif;
+}
+
+button {
+  background-color: red;
+  color: white;
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+  width: 20%;
+  max-width: 80%;
+  height: auto;
+  font-size: 140%;
+  font-family: sans-serif;
+}
+
+.mdiv {
+  background-color: red;
+  color: white;
+  border-style: solid;
+  border-width: 10px;
+  border-color: black;
+  font-size: 140%;
+  font-family: sans-serif;
+  display: block;
+  width: 50%;
+}
+
+#amogus {
+  border-style: solid;
+  border-width: 20px;
+  border-color: black;
+  background-color: blue;
+  width: 50%;
+}
+
+.center {
+   margin: auto;
+}
+
+img {
+  max-width: 80%;
+  height: auto;
+}
+
+div {
+  overflow-x: auto;
+}
